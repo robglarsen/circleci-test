@@ -30,6 +30,7 @@ jobs:
           name: run tests
           command: |
             . venv/bin/activate
+            cd circletest
             python manage.py test
 
       - store_artifacts:
