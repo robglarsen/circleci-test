@@ -1,2 +1,2 @@
 # circleci-test
-circle ci test
+circle ci test for django application
